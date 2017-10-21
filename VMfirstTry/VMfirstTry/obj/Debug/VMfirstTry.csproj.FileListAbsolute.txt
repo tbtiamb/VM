@@ -1,0 +1,6 @@
+c:\users\a\documents\visual studio 2015\Projects\VMfirstTry\VMfirstTry\bin\Debug\VMfirstTry.exe.config
+c:\users\a\documents\visual studio 2015\Projects\VMfirstTry\VMfirstTry\bin\Debug\VMfirstTry.exe
+c:\users\a\documents\visual studio 2015\Projects\VMfirstTry\VMfirstTry\bin\Debug\VMfirstTry.pdb
+c:\users\a\documents\visual studio 2015\Projects\VMfirstTry\VMfirstTry\obj\Debug\VMfirstTry.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2015\Projects\VMfirstTry\VMfirstTry\obj\Debug\VMfirstTry.exe
+c:\users\a\documents\visual studio 2015\Projects\VMfirstTry\VMfirstTry\obj\Debug\VMfirstTry.pdb
